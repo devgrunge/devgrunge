@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React and Typescript**
 
-- ⚡ Fun fact **Musician 😜**
+- ⚡ in the spare time Dungeon master **5E is the best d&d 😜**
 
 <br><br>
 
