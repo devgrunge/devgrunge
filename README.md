@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alexander marcondes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmarcondes21&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Jr developer focused on developing skills everyday
+- 🔥 Jr developer focused on improving skills everyday
 
 - 🔭 I’m currently Studiying Node.js, ReactJs and SQL
 
