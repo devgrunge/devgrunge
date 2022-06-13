@@ -3,7 +3,7 @@
 
 - 🔥 Jr developer focused on improving skills everyday
 
-- 🔭 I’m currently Studying Node.js, ReactJs and SQL
+- 🔭 I’m currently Studying Laravel and PHP
 
 - 👨‍💻 All of my projects are available at [alexmarcondes21.dev](https://github.com/alexmarcondes21?tab=repositories)
 
