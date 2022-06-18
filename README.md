@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying Laravel and PHP
 
-- 👨‍💻 All of my projects are available at [alexmarcondes21.dev](https://github.com/alexmarcondes21?tab=repositories)
+- 👨‍💻 All of my projects are available at [alexmarcondes.dev](https://github.com/devgrunge?tab=repositories)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React and Typescript**
 
