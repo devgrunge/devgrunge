@@ -3,7 +3,7 @@
 
 - 🔥 Jr developer focused on improving skills everyday
 
-- 🔭 I’m currently Studying Laravel and PHP
+- 🔭 I’m currently Studying React Native
 
 - 👨‍💻 All of my projects are available at [alexmarcondes.dev](https://github.com/devgrunge?tab=repositories)
 
