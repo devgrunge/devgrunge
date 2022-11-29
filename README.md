@@ -3,11 +3,11 @@
 
 - 🔥 Jr developer focused on improving skills everyday
 
-- 🔭 I’m currently Studying React Native
+- 🔭 I’m currently Studying PHP and BackEnd techs
 
 - 👨‍💻 All of my projects are available at [alexmarcondes.dev](https://github.com/devgrunge?tab=repositories)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React and Typescript**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React, PHP and Typescript**
 
 - ⚡ in the spare time Dungeon master **5E is the best d&d edition 😜**
 
