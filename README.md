@@ -3,7 +3,7 @@
 
 - 🔥 Jr developer focused on improving skills everyday
 
-- 🔭 I’m currently Studying PHP and BackEnd techs
+- 🔭 I’m currently Studying PHP and Node.js
 
 - 👨‍💻 All of my projects are available at [alexmarcondes.dev](https://github.com/devgrunge?tab=repositories)
 
