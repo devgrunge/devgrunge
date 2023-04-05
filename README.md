@@ -1,7 +1,7 @@
 <h1 align="left">Hi<img src="./hi.gif" height="30"width="30px">, I'm Alexander marcondes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmarcondes21&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Jr developer focused on improving skills everyday
+- 🔥 Frontend developer focused on improving skills everyday
 
 - 🔭 I’m currently Studying PHP and Node.js
 
