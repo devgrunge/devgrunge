@@ -41,10 +41,6 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-</a>
-<a href="https://twitter.com/Ogrunjo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-alexmarcondes21-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://www.linkedin.com/in/alexander-marcondes-junior-8b8b78219/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-alexmarcondes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
