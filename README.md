@@ -1,13 +1,13 @@
 <h1 align="left">Hi<img src="./hi.gif" height="30"width="30px">, I'm Alexander marcondes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmarcondes21&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Frontend developer focused on improving skills everyday
+- 🔥 Fullstack developer focused on improving skills everyday
 
-- 🔭 I’m currently Studying PHP and Node.js
+- 🔭 I’m currently working on a open source project called **Dungeons and dragons Battle companion**
 
 - 👨‍💻 All of my projects are available at [alexmarcondes.dev](https://github.com/devgrunge?tab=repositories)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React, PHP and Typescript**
+- 💬 Ask me about **JavaScript, React native and nodeJs and microservices**
 
 - ⚡ in the spare time Dungeon master **5E is the best d&d edition 😜**
 
