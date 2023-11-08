@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [alexmarcondes.dev](https://github.com/devgrunge?tab=repositories)
 
-- 💬 Ask me about **JavaScript, React native and nodeJs and microservices**
+- 💬 Ask me about **JavaScript, React native , nodeJs and microservices**
 
 - ⚡ in the spare time Dungeon master **5E is the best d&d edition 😜**
 
