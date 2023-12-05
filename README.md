@@ -1,7 +1,7 @@
 <h1 align="left">Hi<img src="./hi.gif" height="30"width="30px">, I'm Alexander marcondes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmarcondes21&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Fullstack developer focused on building web and moile applications
+- 🔥 Fullstack developer focused on building web and mobile applications
 
 - 🔭 I’m currently working on a open source project called **Dungeons and dragons Battle companion**
 
