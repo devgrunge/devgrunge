@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a open source project called **Dungeons and dragons Battle companion**
 
-- 👨‍💻 All of my projects are available at [alexmarcondes.dev](https://github.com/devgrunge?tab=repositories)
+- 👨‍💻 My portifolio is available at [alexmarcondes.dev](https://alexander-portifolio-website.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React native , nodeJs and microservices**
 
