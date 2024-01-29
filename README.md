@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, React native , nodeJs and microservices**
 
-- ⚡ in the spare time i'm Dungeon master | **5E is the best d&d edition 😜** 
+- ⚡ in the spare time i'm a Dungeon master | **Currently playing Curse of strahd🧛** 
 
 <br><br>
 
