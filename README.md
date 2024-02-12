@@ -3,7 +3,7 @@
 
 - 🔥 Fullstack developer focused on building web and mobile applications
 
-- 🔭 I’m currently working on a open source project called **Dungeons and dragons Battle companion**
+- 🔭 I’m currently learning design patterns and S.O.L.I.D concepts
 
 - 👨‍💻 My portifolio is available at [alexmarcondes.dev](https://alexander-portifolio-website.vercel.app/)
 
