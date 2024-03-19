@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning design patterns and S.O.L.I.D concepts
 
-- 👨‍💻 My portifolio is available at [alexmarcondes.dev](https://alexander-portifolio-website.vercel.app/)
+- 👨‍💻 My portifolio is available at [alexmarcondes.dev](https://alexander-portfolio-website.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React native , nodeJs and microservices**
 
