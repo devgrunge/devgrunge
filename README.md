@@ -1,9 +1,9 @@
 <h1 align="left">Hi<img src="./hi.gif" height="30"width="30px">, I'm Alexander marcondes</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmarcondes21&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Fullstack developer focused on building web and mobile applications
+- 🔥 Fullstack developer focused on building solid web and mobile applications
 
-- 🔭 I’m currently learning design patterns and S.O.L.I.D concepts
+- 🔭 I’m currently learning design patterns and UML concepts
 
 - 👨‍💻 My portifolio is available at [alexmarcondes.dev](https://alexander-portfolio-website.vercel.app/)
 
