@@ -3,7 +3,7 @@
 
 - 🔥 Fullstack developer focused on building solid web and mobile applications
 
-- 🔭 I’m currently learning design patterns and UML concepts
+- 🔭 I’m currently learning design patterns and software modeling
 
 - 👨‍💻 My portifolio is available at [alexmarcondes.dev](https://alexander-portfolio-website.vercel.app/)
 
