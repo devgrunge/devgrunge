@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, React native , nodeJs and microservices**
 
-- ⚡ in the spare time i'm a Dungeon master | **Currently playing Curse of strahd🧛** 
+- ⚡ in the spare time i like to play board games and skate
 
 <br><br>
 
