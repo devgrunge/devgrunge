@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently learning design patterns and machine learning
 
-- 👨‍💻 My portifolio is available at [alexmarcondes.dev](https://alexander-portfolio-website.vercel.app/)
-
 - 💬 Ask me about **Typescript, React native and nodeJs**
 
 - ⚡ in my spare time I like to play board games and skate
