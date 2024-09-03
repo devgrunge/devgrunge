@@ -22,6 +22,10 @@
 <!--[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) -->
 
+![Lambda Functions](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Firebase Functions](https://img.shields.io/badge/Firebase%20Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![Serverless](https://img.shields.io/badge/Serverless-0078D7?style=for-the-badge&logo=microservices&logoColor=white)&nbsp;
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -34,10 +38,6 @@
 [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/)
-
-![Lambda Functions](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Firebase Functions](https://img.shields.io/badge/Firebase%20Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-![Serverless](https://img.shields.io/badge/Serverless-0078D7?style=for-the-badge&logo=microservices&logoColor=white)&nbsp;
 
 <!--![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;-->
 <!--![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;-->
