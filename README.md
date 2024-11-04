@@ -26,6 +26,9 @@
 ![Firebase Functions](https://img.shields.io/badge/Firebase%20Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Serverless](https://img.shields.io/badge/Serverless-0078D7?style=for-the-badge&logo=microservices&logoColor=white)&nbsp;
 
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -44,6 +47,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)&nbsp;
+
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
