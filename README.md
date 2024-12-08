@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning design patterns and machine learning
 
-- 💬 Ask me about **Typescript, React native and nodeJs**
+- 💬 Ask me about **Typescript, nodeJs and IaaS**
 
 - ⚡ in my spare time I like to play board games and skate
 
