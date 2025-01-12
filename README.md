@@ -68,10 +68,10 @@
 ## 🔗 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/alexander-marcondes-junior-8b8b78219/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-alexmarcondes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/alexmarcjr-dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-alexmarcjr--dev-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/ogrunjo" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ogrunjo-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-ogrunjo-05122A?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 </p>
