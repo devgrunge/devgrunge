@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Typescript, nodeJs, bash and IaaS**
 
-- ⚡ in my spare time I like to play board games and skate
+- ⚡ in my spare time I like to play guitar and skate
 
 <br><br>
 
